@@ -23,7 +23,7 @@ PulsarMap(height=1200, m_point = (550,650), line_width=4, tick_len=10)
 ```
 ![preview](pm_original_2.png)
 
-Use different pulsars from the Australian Telescope National Facility (ATNF) database:
+Use different pulsars from the Australia Telescope National Facility (ATNF) database:
 
 ```python
 new_pulsars = ['J1857+0526','J0205+6449','J0820-3921','J1918-0642','J1843-1507','J0533-4524','J0820-1350',
@@ -55,4 +55,4 @@ PulsarMap(pulsars=new_pulsars3, height=2600, width=2600, m_point=(1000,1400), gc
 ```
 ![preview](ex6.png)
 
-**A massive thank you to the [psrqpy Python module](https://github.com/mattpitkin/psrqpy/) and the [Australian Telescope National Facility](https://www.atnf.csiro.au/) pulsar database for making this project possible.**
+**A massive thank you to the [psrqpy Python module](https://github.com/mattpitkin/psrqpy/) and the [Australia Telescope National Facility](https://www.atnf.csiro.au/) pulsar database for making this project possible.**
