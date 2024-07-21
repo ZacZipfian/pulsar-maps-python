@@ -14,14 +14,14 @@ Change the colour for the defult map:
 ```python
 PulsarMap(tick_colour='white', line_colour='white', bc_colour='black')
 ```
-![preview](pm_original_2.png)
+![preview](pm_original_4.png)
 
 Change line & tick width, the origin, and the image dimensions:
 
 ```python
 PulsarMap(height=1200, m_point = (550,650), line_width=4, tick_len=10)
 ```
-![preview](pm_original_4.png)
+![preview](pm_original_2.png)
 
 Use different pulsars from the Australian Telescope National Facility (ATNF) database:
 
